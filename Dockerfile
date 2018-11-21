@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER Alexandre VIAL-BOUKOBZA <alexandre@vial-boukobza.fr>
+MAINTAINER Alexandre VIAL-BOUKOBZA
 
 ENV DISPLAY :0
 ENV DEBIAN_FRONTEND noninteractive
